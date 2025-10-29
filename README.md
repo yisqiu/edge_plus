@@ -1,7 +1,8 @@
 Edge浏览器右键关闭标签页插件
 
 # 功能
-
+- 配置文件放置到C:\Users\用户名\AppData\Roaming\EdgePlus\EdgePlus.ini，解决权限问题
+- 改善设置窗口字体在不同缩放比例屏幕上面的显示效果
 - ctrl+alt+shift+0打开设置面板，可以通过设置面板来控制各选项
 - 支持点击书签栏打开新标签
 - 制作安装程序，更加方便安装和卸载
@@ -15,9 +16,10 @@ Edge浏览器右键关闭标签页插件
 - 右键关闭标签页
 - 按住右键时滚轮滚动标签栏（暂时取消）
 # 获取
-Edge++1.4.0Setup.exe
+EdgePlusSetup1.4.2.exe
 # 安装
-- 双击Edge++1.4.0Setup.exe运行
+- 双击EdgePlusSetup1.4.2.exe运行
+
 
 
 
